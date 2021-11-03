@@ -1,1 +1,2 @@
-I'm Tarun Sehgal, 21 years old, 3rd year B.Tech undergrad Information Technology at GNE College, Ludhiana.  
+I'm Tarun Sehgal, 21 years old, 3rd year B.Tech Undergrad Information Technology at GNE College, Ludhiana. I'm working on different domains like Database, 
+Web Development--> Frontend(ReactJS) Backend(NodeJS), Machine Learning, DSA(Data Structures & Algos).
